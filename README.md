@@ -24,3 +24,7 @@ Each folder contains two Kaggle notebooks (`*-a` and `*-b`) plus a PDF recap for
 
 - [ ] Run through the notebooks again with your own API keys or MCP tool stacks.
 - [ ] Capture personal learnings in the day-level READMEs as you revisit the material.
+
+## References
+
+- [Kaggle – Google 5-Day Agents Course](https://www.kaggle.com/learn-guide/5-day-agents)
